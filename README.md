@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hola✌ Soy un apasionado de la tecnología, me encanta desarrollar y crear código, 💻mi gusto por la programación me motiva a seguir creciendo todos los días.
+Hola✌ Soy un apasionado de la tecnología, 💻 mi gusto por la programación me motiva a seguir creciendo todos los días. 
 
 
 # 💻 Tech Stack:
